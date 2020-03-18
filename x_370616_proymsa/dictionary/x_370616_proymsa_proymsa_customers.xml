@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="core_company" label="PROYMSA_Customers" max_length="40" name="x_370616_proymsa_proymsa_customers" type="collection">
+    <element extends="core_company" label="PROYMSA_Customers" max_length="40" name="x_370616_proymsa_proymsa_customers" sizeclass="1" type="collection">
+        <element label="Contact" mandatory="true" max_length="1024" name="proymsa_users" reference="x_370616_proymsa_proymsa_users" type="glide_list"/>
         <element attributes="edge_encryption_enabled=true" label="RFC" max_length="40" name="u_string_1" type="string"/>
+        <index name="index">
+            <element name="proymsa_users"/>
+        </index>
     </element>
 </database>

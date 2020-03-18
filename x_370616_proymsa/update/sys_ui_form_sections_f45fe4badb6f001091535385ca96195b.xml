@@ -31,16 +31,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-18 03:08:16</sys_created_on>
+            <sys_created_on>2020-03-18 05:07:26</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>345fe4badb6f001091535385ca961988</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>9a9acdbadbaf001091535385ca961936</sys_id>
+            <sys_mod_count>1</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_370616_proymsa_proymsa_customers" name="x_370616_proymsa_proymsa_customers" sys_domain="global" view="Default view">f45fe4badb6f001091535385ca96195b</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_370616_proymsa_proymsa_customers" sys_domain="global" view="Default view">f85fe4badb6f001091535385ca961959</sys_ui_section>
+            <sys_ui_section caption="Contact" display_value="Contact" name="x_370616_proymsa_proymsa_customers" sys_domain="global" view="Default view">de9acdbadbaf001091535385ca961932</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-18 03:08:16</sys_updated_on>
+            <sys_updated_on>2020-03-18 05:07:26</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>3</position>
@@ -55,6 +55,20 @@
             <sys_ui_section caption="Notes" display_value="Notes" name="x_370616_proymsa_proymsa_customers" sys_domain="global" view="Default view">b45fe4badb6f001091535385ca96195a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-03-18 03:08:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-18 03:08:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>345fe4badb6f001091535385ca961988</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_370616_proymsa_proymsa_customers" name="x_370616_proymsa_proymsa_customers" sys_domain="global" view="Default view">f45fe4badb6f001091535385ca96195b</sys_ui_form>
+            <sys_ui_section caption="Information" display_value="Information" name="x_370616_proymsa_proymsa_customers" sys_domain="global" view="Default view">f85fe4badb6f001091535385ca961959</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-18 05:07:26</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_370616_proymsa_proymsa_customers</name>

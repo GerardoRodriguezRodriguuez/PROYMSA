@@ -4,13 +4,13 @@
             <element>name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-18 03:08:17</sys_created_on>
-            <sys_id>815fe4badb6f001091535385ca9619d1</sys_id>
+            <sys_created_on>2020-03-18 05:07:27</sys_created_on>
+            <sys_id>a29acdbadbaf001091535385ca96195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370616_proymsa_proymsa_customers" sys_domain="global" view="Default view">ea6c283adb6f001091535385ca961981</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-18 03:08:17</sys_updated_on>
+            <sys_updated_on>2020-03-18 05:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,83 +18,55 @@
             <element>u_string_1</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-18 03:08:17</sys_created_on>
-            <sys_id>055fe4badb6f001091535385ca9619d1</sys_id>
+            <sys_created_on>2020-03-18 05:07:27</sys_created_on>
+            <sys_id>269acdbadbaf001091535385ca96195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370616_proymsa_proymsa_customers" sys_domain="global" view="Default view">ea6c283adb6f001091535385ca961981</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-18 03:08:17</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>manufacturer</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-18 03:08:17</sys_created_on>
-            <sys_id>855fe4badb6f001091535385ca9619d1</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_370616_proymsa_proymsa_customers" sys_domain="global" view="Default view">ea6c283adb6f001091535385ca961981</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-18 03:08:17</sys_updated_on>
+            <sys_updated_on>2020-03-18 05:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-18 03:08:17</sys_created_on>
-            <sys_id>095fe4badb6f001091535385ca9619d1</sys_id>
+            <sys_created_on>2020-03-18 05:07:27</sys_created_on>
+            <sys_id>a69acdbadbaf001091535385ca96195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370616_proymsa_proymsa_customers" sys_domain="global" view="Default view">ea6c283adb6f001091535385ca961981</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-18 03:08:17</sys_updated_on>
+            <sys_updated_on>2020-03-18 05:07:27</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>phone</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-18 03:08:17</sys_created_on>
-            <sys_id>895fe4badb6f001091535385ca9619d1</sys_id>
+            <sys_created_on>2020-03-18 05:07:27</sys_created_on>
+            <sys_id>2a9acdbadbaf001091535385ca96195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370616_proymsa_proymsa_customers" sys_domain="global" view="Default view">ea6c283adb6f001091535385ca961981</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-18 03:08:17</sys_updated_on>
+            <sys_updated_on>2020-03-18 05:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>fax_phone</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-18 03:08:17</sys_created_on>
-            <sys_id>0d5fe4badb6f001091535385ca9619d1</sys_id>
+            <sys_created_on>2020-03-18 05:07:27</sys_created_on>
+            <sys_id>aa9acdbadbaf001091535385ca96195c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_370616_proymsa_proymsa_customers" sys_domain="global" view="Default view">ea6c283adb6f001091535385ca961981</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-18 03:08:17</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>stock_price</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-18 03:08:17</sys_created_on>
-            <sys_id>8d5fe4badb6f001091535385ca9619d1</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_370616_proymsa_proymsa_customers" sys_domain="global" view="Default view">ea6c283adb6f001091535385ca961981</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-18 03:08:17</sys_updated_on>
+            <sys_updated_on>2020-03-18 05:07:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
