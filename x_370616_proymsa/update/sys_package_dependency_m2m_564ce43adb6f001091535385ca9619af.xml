@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System (apps/system_user)" source="apps/system_user">755e7922db23001091535385ca9619de</dependency>
+        <min_version/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 02:55:00</sys_created_on>
+        <sys_id>564ce43adb6f001091535385ca9619af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="PROYMSA" source="x_370616_proymsa">d33adaaedbe7001091535385ca961967</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 02:55:00</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

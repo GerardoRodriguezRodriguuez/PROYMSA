@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="core_company" label="PROYMSA_Customers" max_length="40" name="x_370616_proymsa_proymsa_customers" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="RFC" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>
