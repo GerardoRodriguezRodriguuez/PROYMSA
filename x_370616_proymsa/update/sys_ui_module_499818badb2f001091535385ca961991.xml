@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="PROYMSA">019818badb2f001091535385ca96198f</application>
+        <filter/>
+        <name>PROYMSA_Users</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_370616_proymsa.proymsa_users_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 01:28:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>499818badb2f001091535385ca961991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PROYMSA_Users</sys_name>
+        <sys_package display_value="PROYMSA" source="x_370616_proymsa">d33adaaedbe7001091535385ca961967</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PROYMSA">d33adaaedbe7001091535385ca961967</sys_scope>
+        <sys_update_name>sys_ui_module_499818badb2f001091535385ca961991</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 01:28:53</sys_updated_on>
+        <table>x_370616_proymsa_proymsa_users</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

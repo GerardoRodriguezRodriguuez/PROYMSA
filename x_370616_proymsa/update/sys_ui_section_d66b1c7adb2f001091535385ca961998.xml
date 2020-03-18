@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New User" section_id="d66b1c7adb2f001091535385ca961998" sys_domain="global" table="x_370616_proymsa_proymsa_users" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_name</element>
+            <position>0</position>
+            <sys_created_by>clopez</sys_created_by>
+            <sys_created_on>2020-03-18 01:55:17</sys_created_on>
+            <sys_id>339e5cbedb2f001091535385ca961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New User" display_value="New User" name="x_370616_proymsa_proymsa_users" sys_domain="global" view="Default view">d66b1c7adb2f001091535385ca961998</sys_ui_section>
+            <sys_updated_by>clopez</sys_updated_by>
+            <sys_updated_on>2020-03-18 01:55:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>1</position>
+            <sys_created_by>clopez</sys_created_by>
+            <sys_created_on>2020-03-18 01:55:17</sys_created_on>
+            <sys_id>b39e5cbedb2f001091535385ca961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New User" display_value="New User" name="x_370616_proymsa_proymsa_users" sys_domain="global" view="Default view">d66b1c7adb2f001091535385ca961998</sys_ui_section>
+            <sys_updated_by>clopez</sys_updated_by>
+            <sys_updated_on>2020-03-18 01:55:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>2</position>
+            <sys_created_by>clopez</sys_created_by>
+            <sys_created_on>2020-03-18 01:55:17</sys_created_on>
+            <sys_id>379e5cbedb2f001091535385ca961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New User" display_value="New User" name="x_370616_proymsa_proymsa_users" sys_domain="global" view="Default view">d66b1c7adb2f001091535385ca961998</sys_ui_section>
+            <sys_updated_by>clopez</sys_updated_by>
+            <sys_updated_on>2020-03-18 01:55:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_password</element>
+            <position>3</position>
+            <sys_created_by>clopez</sys_created_by>
+            <sys_created_on>2020-03-18 01:55:17</sys_created_on>
+            <sys_id>b79e5cbedb2f001091535385ca961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New User" display_value="New User" name="x_370616_proymsa_proymsa_users" sys_domain="global" view="Default view">d66b1c7adb2f001091535385ca961998</sys_ui_section>
+            <sys_updated_by>clopez</sys_updated_by>
+            <sys_updated_on>2020-03-18 01:55:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>password_needs_reset</element>
+            <position>4</position>
+            <sys_created_by>clopez</sys_created_by>
+            <sys_created_on>2020-03-18 01:55:17</sys_created_on>
+            <sys_id>3b9e5cbedb2f001091535385ca961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New User" display_value="New User" name="x_370616_proymsa_proymsa_users" sys_domain="global" view="Default view">d66b1c7adb2f001091535385ca961998</sys_ui_section>
+            <sys_updated_by>clopez</sys_updated_by>
+            <sys_updated_on>2020-03-18 01:55:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>5</position>
+            <sys_created_by>clopez</sys_created_by>
+            <sys_created_on>2020-03-18 01:55:17</sys_created_on>
+            <sys_id>bb9e5cbedb2f001091535385ca961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New User" display_value="New User" name="x_370616_proymsa_proymsa_users" sys_domain="global" view="Default view">d66b1c7adb2f001091535385ca961998</sys_ui_section>
+            <sys_updated_by>clopez</sys_updated_by>
+            <sys_updated_on>2020-03-18 01:55:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>clopez</sys_created_by>
+            <sys_created_on>2020-03-18 01:55:17</sys_created_on>
+            <sys_id>3f9e5cbedb2f001091535385ca961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New User" display_value="New User" name="x_370616_proymsa_proymsa_users" sys_domain="global" view="Default view">d66b1c7adb2f001091535385ca961998</sys_ui_section>
+            <sys_updated_by>clopez</sys_updated_by>
+            <sys_updated_on>2020-03-18 01:55:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>7</position>
+            <sys_created_by>clopez</sys_created_by>
+            <sys_created_on>2020-03-18 01:55:17</sys_created_on>
+            <sys_id>bf9e5cbedb2f001091535385ca961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New User" display_value="New User" name="x_370616_proymsa_proymsa_users" sys_domain="global" view="Default view">d66b1c7adb2f001091535385ca961998</sys_ui_section>
+            <sys_updated_by>clopez</sys_updated_by>
+            <sys_updated_on>2020-03-18 01:55:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>preferred_language</element>
+            <position>8</position>
+            <sys_created_by>clopez</sys_created_by>
+            <sys_created_on>2020-03-18 01:55:17</sys_created_on>
+            <sys_id>339e5cbedb2f001091535385ca96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New User" display_value="New User" name="x_370616_proymsa_proymsa_users" sys_domain="global" view="Default view">d66b1c7adb2f001091535385ca961998</sys_ui_section>
+            <sys_updated_by>clopez</sys_updated_by>
+            <sys_updated_on>2020-03-18 01:55:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>home_phone</element>
+            <position>9</position>
+            <sys_created_by>clopez</sys_created_by>
+            <sys_created_on>2020-03-18 01:55:17</sys_created_on>
+            <sys_id>b39e5cbedb2f001091535385ca96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New User" display_value="New User" name="x_370616_proymsa_proymsa_users" sys_domain="global" view="Default view">d66b1c7adb2f001091535385ca961998</sys_ui_section>
+            <sys_updated_by>clopez</sys_updated_by>
+            <sys_updated_on>2020-03-18 01:55:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mobile_phone</element>
+            <position>10</position>
+            <sys_created_by>clopez</sys_created_by>
+            <sys_created_on>2020-03-18 01:55:17</sys_created_on>
+            <sys_id>379e5cbedb2f001091535385ca96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New User" display_value="New User" name="x_370616_proymsa_proymsa_users" sys_domain="global" view="Default view">d66b1c7adb2f001091535385ca961998</sys_ui_section>
+            <sys_updated_by>clopez</sys_updated_by>
+            <sys_updated_on>2020-03-18 01:55:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>photo</element>
+            <position>11</position>
+            <sys_created_by>clopez</sys_created_by>
+            <sys_created_on>2020-03-18 01:55:17</sys_created_on>
+            <sys_id>b79e5cbedb2f001091535385ca96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New User" display_value="New User" name="x_370616_proymsa_proymsa_users" sys_domain="global" view="Default view">d66b1c7adb2f001091535385ca961998</sys_ui_section>
+            <sys_updated_by>clopez</sys_updated_by>
+            <sys_updated_on>2020-03-18 01:55:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gender</element>
+            <position>12</position>
+            <sys_created_by>clopez</sys_created_by>
+            <sys_created_on>2020-03-18 01:55:17</sys_created_on>
+            <sys_id>3b9e5cbedb2f001091535385ca96196a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New User" display_value="New User" name="x_370616_proymsa_proymsa_users" sys_domain="global" view="Default view">d66b1c7adb2f001091535385ca961998</sys_ui_section>
+            <sys_updated_by>clopez</sys_updated_by>
+            <sys_updated_on>2020-03-18 01:55:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New User</caption>
+            <header>false</header>
+            <name>x_370616_proymsa_proymsa_users</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-18 01:41:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d66b1c7adb2f001091535385ca961998</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>New User</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PROYMSA" source="x_370616_proymsa">d33adaaedbe7001091535385ca961967</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PROYMSA">d33adaaedbe7001091535385ca961967</sys_scope>
+            <sys_update_name>sys_ui_section_d66b1c7adb2f001091535385ca961998</sys_update_name>
+            <sys_updated_by>clopez</sys_updated_by>
+            <sys_updated_on>2020-03-18 01:55:15</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

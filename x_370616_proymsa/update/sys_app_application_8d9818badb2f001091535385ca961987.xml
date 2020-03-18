@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>PROYMSA</name>
+        <order>100</order>
+        <roles>x_370616_proymsa.proymsa_users_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 01:28:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8d9818badb2f001091535385ca961987</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PROYMSA</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PROYMSA" source="x_370616_proymsa">d33adaaedbe7001091535385ca961967</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PROYMSA">d33adaaedbe7001091535385ca961967</sys_scope>
+        <sys_update_name>sys_app_application_8d9818badb2f001091535385ca961987</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 01:28:53</sys_updated_on>
+        <title>PROYMSA</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

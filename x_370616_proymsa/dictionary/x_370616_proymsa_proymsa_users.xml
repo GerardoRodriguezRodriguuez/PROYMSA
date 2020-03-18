@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_user" label="PROYMSA_Users" max_length="40" name="x_370616_proymsa_proymsa_users" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Country" mandatory="true" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>
